@@ -66,5 +66,5 @@ Menggunakan kode python :
 8. Data mahasiswa (nama, NIM, nilai-nilai, dan nilai akhir) disimpan dalam struktur kamus (dictionary) dan ditambahkan ke dalam daftar (list) bernama data_mahasiswa.
 9. Lalu diminta untuk memasukkan data tambahan (Tambah data(y/t)?). 
 10. jika memasukkan karakter selain 'y' (huruf kecil atau besar), perulangan input akan berhenti.
-10.Bagian terakhir dari kode menyiapkan pencetakan data mahasiswa dalam format tabel dengan kolom untuk Nomor, Nama, NIM, Tugas, UTS, UAS, dan Nilai Akhir.
+11. Bagian terakhir dari kode menyiapkan pencetakan data mahasiswa dalam format tabel dengan kolom untuk Nomor, Nama, NIM, Tugas, UTS, UAS, dan Nilai Akhir.
    
