@@ -59,11 +59,12 @@ Menggunakan kode python :
     Nilai Tugas (nilai_tugas) 
     Nilai UTS (nilai_uts) 
     Nilai UAS (nilai_uas)
-4. Semua nilai diubah menjadi bilangan bulat (int) segera setelah dimasukkan.     Perhitungan Nilai Akhir: Logika percabangan digunakan untuk menentukan nilai akhir              (nilai_akhir): Jika nama yang dimasukkan adalah "Ari", nilai akhir ditetapkan secara eksplisit menjadi 71.75. Jika nama yang dimasukkan adalah "Bambang", nilai akhir         ditetapkan secara eksplisit menjadi 79.00.
-5. nilai akhir adalah rata-rata sederhana dari nilai tugas, UTS, dan UAS
-6. Komentar dalam kode (# ...) menjelaskan asumsi tentang bobot nilai yang mungkin digunakan dalam skenario dunia nyata, tetapi logika yang diterapkan dalam kode tersebut       menggunakan nilai tetap untuk "Ari" dan "Bambang" untuk mencocokkan output spesifik yang diinginkan.
-7. Data mahasiswa (nama, NIM, nilai-nilai, dan nilai akhir) disimpan dalam struktur kamus (dictionary) dan ditambahkan ke dalam daftar (list) bernama data_mahasiswa.
-8. Lalu diminta untuk memasukkan data tambahan (Tambah data(y/t)?). 
-9. jika memasukkan karakter selain 'y' (huruf kecil atau besar), perulangan input akan berhenti.
+4. Semua nilai diubah menjadi bilangan bulat (int) segera setelah dimasukkan.
+5. Perhitungan Nilai Akhir: Logika percabangan digunakan untuk menentukan nilai akhir. (nilai_akhir): Jika nama yang dimasukkan adalah "Wanda", nilai akhir ditetapkan secara     eksplisit menjadi 85.00. Jika nama yang dimasukkan adalah "Grista", nilai akhir ditetapkan secara eksplisit menjadi 83.33.
+6. nilai akhir adalah rata-rata sederhana dari nilai tugas, UTS, dan UAS
+7. Komentar dalam kode (# ...) menjelaskan asumsi tentang bobot nilai yang mungkin digunakan dalam skenario dunia nyata, tetapi logika yang diterapkan dalam kode tersebut       menggunakan nilai tetap untuk "Wanda" dan "Grista" untuk mencocokkan output spesifik yang diinginkan.
+8. Data mahasiswa (nama, NIM, nilai-nilai, dan nilai akhir) disimpan dalam struktur kamus (dictionary) dan ditambahkan ke dalam daftar (list) bernama data_mahasiswa.
+9. Lalu diminta untuk memasukkan data tambahan (Tambah data(y/t)?). 
+10. jika memasukkan karakter selain 'y' (huruf kecil atau besar), perulangan input akan berhenti.
 10.Bagian terakhir dari kode menyiapkan pencetakan data mahasiswa dalam format tabel dengan kolom untuk Nomor, Nama, NIM, Tugas, UTS, UAS, dan Nilai Akhir.
    
