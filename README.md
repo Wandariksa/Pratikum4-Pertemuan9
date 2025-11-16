@@ -1,9 +1,9 @@
 # Pratikum4-Pertemuan9
 Menggunakan kode python :
 
-  data_mahasiswa = []
+    data_mahasiswa = []
 
-  while True:
+    while True:
       nama = input("Nama: ")
       nim = input("NIM : ")
       nilai_tugas = int(input("Nilai Tugas : "))
@@ -63,7 +63,7 @@ Menggunakan kode python :
 5. nilai akhir adalah rata-rata sederhana dari nilai tugas, UTS, dan UAS
 6. Komentar dalam kode (# ...) menjelaskan asumsi tentang bobot nilai yang mungkin digunakan dalam skenario dunia nyata, tetapi logika yang diterapkan dalam kode tersebut       menggunakan nilai tetap untuk "Ari" dan "Bambang" untuk mencocokkan output spesifik yang diinginkan.
 7. Data mahasiswa (nama, NIM, nilai-nilai, dan nilai akhir) disimpan dalam struktur kamus (dictionary) dan ditambahkan ke dalam daftar (list) bernama data_mahasiswa.
-8. alu diminta untuk memasukkan data tambahan (Tambah data(y/t)?). 
+8. Lalu diminta untuk memasukkan data tambahan (Tambah data(y/t)?). 
 9. jika memasukkan karakter selain 'y' (huruf kecil atau besar), perulangan input akan berhenti.
 10.Bagian terakhir dari kode menyiapkan pencetakan data mahasiswa dalam format tabel dengan kolom untuk Nomor, Nama, NIM, Tugas, UTS, UAS, dan Nilai Akhir.
    
