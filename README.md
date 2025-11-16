@@ -39,7 +39,7 @@ Menggunakan kode python :
       if tambah_data.lower() != 'y':
           break
 
-  # Mencetak tabel
+`# Mencetak tabel
   print("| No | Nama     | NIM    | Tugas | UTS | UAS | Akhir |")
   print("|----|----------|--------|-------|-----|-----|-------|")
   for i, data in enumerate(data_mahasiswa, 1):
