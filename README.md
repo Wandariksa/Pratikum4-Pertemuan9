@@ -39,11 +39,11 @@ Menggunakan kode python :
       if tambah_data.lower() != 'y':
           break
 
-`# Mencetak tabel
-  print("| No | Nama     | NIM    | Tugas | UTS | UAS | Akhir |")
-  print("|----|----------|--------|-------|-----|-----|-------|")
-  for i, data in enumerate(data_mahasiswa, 1):
-      print(f"| {i:<2} | {data['nama']:<8} | {data['nim']:<6} | {data['tugas']:<5} | {data['uts']:<3} | {data['uas']:<3} | {data['akhir']:<5.2f} |")
+    # Mencetak tabel
+    print("| No | Nama     | NIM    | Tugas | UTS | UAS | Akhir |")
+    print("|----|----------|--------|-------|-----|-----|-------|")
+    for i, data in enumerate(data_mahasiswa, 1):
+        print(f"| {i:<2} | {data['nama']:<8} | {data['nim']:<6} | {data['tugas']:<5} | {data['uts']:<3} | {data['uas']:<3} | {data['akhir']:<5.2f} |")
 
   maka menghasilkan tampilan seperti ini :
 
