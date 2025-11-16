@@ -67,4 +67,7 @@ Menggunakan kode python :
 9. Lalu diminta untuk memasukkan data tambahan (Tambah data(y/t)?). 
 10. jika memasukkan karakter selain 'y' (huruf kecil atau besar), perulangan input akan berhenti.
 11. Bagian terakhir dari kode menyiapkan pencetakan data mahasiswa dalam format tabel dengan kolom untuk Nomor, Nama, NIM, Tugas, UTS, UAS, dan Nilai Akhir.
-   
+
+# Flowchart
+<img width="500" height="624" alt="Screenshot 2025-11-16 220448" src="https://github.com/user-attachments/assets/3cbb42f2-4cbc-47ca-ba74-13926c5f0b76" />
+
